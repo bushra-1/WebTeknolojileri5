@@ -1,0 +1,92 @@
+body{
+    margin:0;
+    background-color:#fcfcfa;
+}
+
+
+.nav_bar{
+    background-color: #1e7898;
+    height:80px;
+    width:100%;
+    padding-top: 20px;
+    text-align: center;
+}
+.nav_bar a{
+    color: black;
+    margin: 10px;
+    text-decoration: none;
+    margin:5px;
+    padding:5px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.nav_bar a:hover{
+    background-color: white;
+    color: coral;
+}
+.buyuk_resim{
+    background: url(web-proje-resimler/gecemanzara.jpg);
+    color: #fff;
+    width: 100%;
+    height:300px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: -21px;
+    padding-top: 160px;
+}
+
+
+.ozgecmis{
+    margin: 14px;
+    margin-left: 60px;
+    padding:10px;
+    background-color: lightgray;
+    width: 20%;
+    border-radius: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.sehrim{
+    margin: 14px;
+    padding:10px;
+    background-color: lightgray;
+    width: 20%;
+    border-radius: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.takim{
+    margin: 14px;
+    padding:10px;
+    background-color: lightgray;
+    width: 20%;
+    border-radius: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.ilgi_alanlari{
+    margin: 14px;
+    padding:10px;
+    background-color: lightgray;
+    width: 20%;
+    border-radius: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.slider{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    border:1px solid yellow;
+    
+}
+.slider-content{
+    position: absolute;
+    width: 500%;
+}
+.slider-item{
+    width: 20%;
+}
+   
+    
